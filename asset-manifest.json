@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GestionDocuments/static/css/main.e6c13ad2.css",
+    "main.js": "/GestionDocuments/static/js/main.2330c5e3.js",
+    "index.html": "/GestionDocuments/index.html",
+    "main.e6c13ad2.css.map": "/GestionDocuments/static/css/main.e6c13ad2.css.map",
+    "main.2330c5e3.js.map": "/GestionDocuments/static/js/main.2330c5e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2330c5e3.js"
+  ]
+}
